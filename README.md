@@ -62,6 +62,7 @@ _Figure 1 - Graphical conceptulaization of the ontology._
 </figcaption>
 
 </figure>
+
 ### Ontology formalization in OWL
 
 The ontology formalization in OWL can then be realized based on the conceptualization described above. To do it you can use your favourite ontology editor (*e.g.*: [Protégé](https://protege.stanford.edu/)).
